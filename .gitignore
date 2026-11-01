@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Saved models
+*.pkl
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
